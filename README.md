@@ -34,6 +34,6 @@ And others - ADV7513, CompactFlash Card, GAL22V10, HT12D, HT12E, ICS501, MC14490
 
 ## Contents (Footprints)
 
-Footprints for these specific components are included: 80960CA, K4T51043QE (with NC pads removed), CompactFlash for Mouser Part No. "517-N7E50-A516PK-30", CompactFlash for Mouser Part No. "517-N7E50-E516PK-30", nanoCH32V003 devboard (named "DIP-22_610_ELL"), intel386DX, MB68901, SK9822, SK9822-EC20 (2020 SMD size)
+Footprints for these specific components are included: 80960CA, K4T51043QE (with NC pads removed), CompactFlash for Mouser Part No. "517-N7E50-A516PK-30", CompactFlash for Mouser Part No. "517-N7E50-E516PK-30", nanoCH32V003 devboard (named "DIP-22_610_ELL"), intel386DX, MB86901, SK9822, SK9822-EC20 (2020 SMD size)
 
 These generic footprints are included: BGA for x4 DDR2 ICs, narrow DIP64, SOIC-6, TO-220-5 Horizontal (no DRC errors with JLCPCB rules), TSOP-I-28 (pin numbers shifted to fit some IS memory chips)
